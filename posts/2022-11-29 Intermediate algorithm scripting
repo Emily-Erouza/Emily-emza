@@ -1,0 +1,31 @@
+---
+Layout:
+Title: "Intermediate Algorithm Scripting"
+Date: 2022-11-29
+Categories:
+---
+# Introduction
+Today I learned how to test your skills with the Intermediate Algorithm Scripting challenges.
+Algorithm scripting is basically a way of creating a function that takes a variety of inputs and gives a variety of outputs.
+
+
+# body
+a.Sum All Numbers in a Range: when an array of two numbers. Return the sum of those two numbers plus the sum of all the numbers between them. The lowest number will not always come first.
+
+b.Diff Two Arrays: when you compare two arrays and return a new array with any items only found in one of the two given arrays, but not both. In other words, return the symmetric difference of the two arrays.
+
+c.Spinal Tap Case: Convert a string to spinal case. Spinal case is all-lowercase-words-joined-by-dashes.
+
+Pig Latin: Is a way of altering English Words.
+- If a word begins with a consonant, take the first consonant or consonant cluster, move it to the end of the word, and add ay to it.
+
+- If a word begins with a vowel, just add way at the end.
+
+d.DNA Pairing: Pairs of DNA strands consist of nucleobase pairs. Base pairs are represented by the characters AT and CG, which form building blocks of the DNA double helix.
+
+-For example: for the input GCG, return [["G", "C"], ["C","G"], ["G", "C"]]
+
+e.Convert HTML Entities: <, >, " (double quote), and ' (apostrophe), in a string to their corresponding HTML entities.
+
+# conclusion
+ algorithm Scripting  It's like a function in math except it can take in a lot of different types of data, such as arrays, strings, numbers and so on.
