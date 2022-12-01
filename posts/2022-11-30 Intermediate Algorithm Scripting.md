@@ -1,7 +1,7 @@
 ---
 Layout:
 Title: "Intermediate Algorithm Scripting"
-Date: 2022-11-30
+Date: 2022-11-1
 Categories:
 ---
 # Introduction
